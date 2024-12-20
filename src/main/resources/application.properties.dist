@@ -1,0 +1,13 @@
+spring.datasource.driver-class-name=
+spring.datasource.username=
+spring.datasource.password=
+spring.datasource.url=
+
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.properties.hibernate.format_sql=true
+spring.jpa.show-sql=true
+spring.jpa.database-platform=org.hibernate.dialect.PostgreSQL10Dialect
+spring.jpa.defer-datasource-initialization=true
+spring.datasource.initialization-mode=always
+
+server.port=
